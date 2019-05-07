@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+#janela{
+	width:760px;
+	height:300px;
+	margin: 0 auto;
+	overflow: hidden;
+	
+}
+
+
+.apoio{
+	text-align: center;
+	margin: 0 auto;
+	font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+	
+}
+
+
+
+hr{
+	margin: 0 auto;
+	width: 760px;
+}
+
+#divCenter { 
+                
+        width:400px; 
+        left: 50%; 
+        position: relative;
+		margin-left: -200px;
+		padding: 10px;
+        }
+
